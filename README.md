@@ -1,11 +1,11 @@
-<h1 align="center"> I'm SISA AHMED</h1>
-<h3 align="center">Just trying to improve myself 😪</h3>
+<h1 align=> I'm SISA AHMED</h1>
+<h3 align=>Just trying to improve myself 😪</h3>
 
-- I’m currently learning **Python3**
+I’m currently busy cause I'm playing **FREE FIRE**
 
-- How to reach me **siamahmedpub@gmail.com**
+How to reach me **siamahmedpub@gmail.com**
 
-- Good thing **At least I'm not a loser😪💥**
+Good thing **At least I'm not a loser😪💥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
