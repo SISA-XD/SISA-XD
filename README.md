@@ -1,13 +1,12 @@
 <h1 align=> WLC TO MY GIT❤️‍🩹</h1>
-<h3 align=>NOW..
-LET ME INTRODUCE MYSELF 😪</h3>
+<h3 align=>OWNER INFORMATION 😪</h3>
 
-**>MY NAME  : **SIAM AHMED****          
+**>NAME  : **SIAM AHMED****          
 **>WORK     : **STUDENT****             
 **>CLASS    : **HIDDEN****              
 **>NICKNAME : **SISA****                
-
-**At least I'm not a loser😪💥**
+**>AGE      : **17+****
+****I WILL TRY TO DO MY BEST😪💥****
 
 <h3 align="left">SOCIAL ACCOUNTS:</h3>
 <p align="left">
