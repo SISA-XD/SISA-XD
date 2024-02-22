@@ -1,4 +1,4 @@
-<h1 align=> WLC TO MY GITHUB❤️‍🩹</h1>
+<h1 align=> WLC TO MY GIT❤️‍🩹</h1>
 <h3 align=>NOW..
 LET ME INTRODUCE MYSELF 😪</h3>
 
