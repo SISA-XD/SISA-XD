@@ -1,12 +1,22 @@
 <h1 align=> IT'S YOUR SISA AHMED</h1>
 <h3 align=>NOW..
-Let me Introduce Myself 😪</h3>
+LET ME INTRODUCE MYSELF 😪</h3>
 
-I’m currently busy cause I'm playing **FREE FIRE**
+>MY NAME  : **SIAM AHMED**
+>WORK     : **STUDENT**
+>CLASS    : **HIDDEN**
+>NICKNAME : **SISA**
+>BROTHER  : **RAHAT**
+>WIFE     : **IREEN**
 
-How to reach me **siamahmedpub@gmail.com**
+<h3 align=>NOW.. MY CONTRACT INFO 😪</h3>
 
-Good thing **At least I'm not a loser😪💥**
+•FACEBOOK : **SISA AHMED**
+•TELEGRAM : **@sisagaming45**
+•INSTAGRAM: **@SiSa_6t9**
+•TIK-TOK  : **SiSa_6t9**
+
+**At least I'm not a loser😪💥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
