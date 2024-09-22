@@ -10,7 +10,7 @@ from concurrent.futures import ThreadPoolExecutor as sexy
 #============{LINEX}============#
 def linex():print(f'━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
 #============{UPDATE}============#
-sisa = 'user-agent'
+sisa = '[FBAN/FBIOS;FBAV/444.0.0.29.113;FBBV/546116613;FBDV/iPhone13,4;FBMD/iPhone;FBSN/iOS;FBSV/17.1.2;FBSS/3;FBID/phone;FBLC/it_IT;FBOP/5;FBRV/547356530]'
 #============{MAIN}============#
 def main():
     user=[]
