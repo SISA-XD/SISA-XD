@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 #============{IMPORT}============#
 import os,time,random,json,sys,zlib
 try:
