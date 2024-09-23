@@ -21,7 +21,7 @@ logo = (
     f'f'━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'
 )
 #============{UPDATE}============#
-sisa = '[FBAN/FBIOS;FBAV/444.0.0.29.113;FBBV/546116613;FBDV/iPhone13,4;FBMD/iPhone;FBSN/iOS;FBSV/17.1.2;FBSS/3;FBID/phone;FBLC/it_IT;FBOP/5;FBRV/547356530]'
+sisa = 'Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-A720F Build/R16NW) [FBAN/Orca-Android;FBAV/196.0.0.29.99;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/135374479;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]'
 #============{MAIN}============#
 def main():
     user=[]
