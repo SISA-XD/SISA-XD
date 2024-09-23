@@ -17,7 +17,8 @@ logo = (
     f' >>> DEVELOPER > ROISUL ISLAM SIAM\n'
     f' >>> FACEBOOK  > SiSa\n'
     f' >>> GITHUB    > SISA-XD\n'
-    f' >>> FEATURES  > OLD '
+    f' >>> FEATURES  > OLD\n'
+    f'f'━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'
 )
 #============{UPDATE}============#
 sisa = '[FBAN/FBIOS;FBAV/444.0.0.29.113;FBBV/546116613;FBDV/iPhone13,4;FBMD/iPhone;FBSN/iOS;FBSV/17.1.2;FBSS/3;FBID/phone;FBLC/it_IT;FBOP/5;FBRV/547356530]'
